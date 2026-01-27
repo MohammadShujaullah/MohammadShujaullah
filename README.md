@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **mdshujaullah789@gmail.com**
 
-- 📄 Know about my experiences [RESUME](RESUME)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1tgi3c9kHhCdVr3_DMjDW0vZqgDNLTC_X/view?usp=drivesdk)
 
 - ⚡ Fun fact **I THINK I HAVE GOOD SENSE OF HUMOUR**
 
