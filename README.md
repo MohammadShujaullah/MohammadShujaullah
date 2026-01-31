@@ -65,7 +65,7 @@ Here are some ideas to get you started:
   <img 
     src="https://profile-readme-generator.com/assets/snake.svg"
     alt="Snake animation"
-    style="max-width:50%; height:100px;"
+    style="max-width:60%; height:100px;"
   />
 </div>
 
