@@ -58,5 +58,6 @@ Here are some ideas to get you started:
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/MohammadShujaullah/MohammadShujaullah/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/MohammadShujaullah/MohammadShujaullah/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
+
