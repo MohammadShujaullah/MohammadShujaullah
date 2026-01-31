@@ -62,6 +62,11 @@ Here are some ideas to get you started:
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img 
+    src="https://profile-readme-generator.com/assets/snake.svg"
+    alt="Snake animation"
+    style="max-width:70%; height:auto;"
+  />
 </div>
+
 
