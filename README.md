@@ -1,5 +1,5 @@
 <img 
-  src="[350535766-a2e68e08-6840-4eb4-96cb-3e5dde4fcaa0.png](https://github.com/MohammadShujaullah/MohammadShujaullah/blob/main/350535766-a2e68e08-6840-4eb4-96cb-3e5dde4fcaa0.png)"
+  src="350535766-a2e68e08-6840-4eb4-96cb-3e5dde4fcaa0.png"
   style="max-width:500; height:30;"
 />
 
