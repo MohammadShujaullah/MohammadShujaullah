@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4b0082&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Mohammad+Shujaullah;+Welcome+to+My+Profile!;Always+learning+new+things)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#FFFFFF&center=true&vCenter=true&width=600&lines=A+passionate+web+developer+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&lines=A+passionate+web+developer+from+India)](https://git.io/typing-svg)
 
 </div><h3 align="center"></h3>
 
